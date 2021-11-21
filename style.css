@@ -1,0 +1,30 @@
+body {
+    background-image:url('img/cof.jpg');
+    background-size:cover;
+    margin:0;
+}
+.headler {
+    width:100%;
+    height:100%;
+    color:white;
+    text-align:center;
+    padding-top:400px;
+}
+.title {
+    margin:0;
+}
+.item {
+    display: inline-block;
+    margin:10px 20px 20px 10px;
+    margin-right: 100px;
+    margin-left:450px;
+    font-size:40pt;
+    font-style:italic;
+}
+.picture img{
+    border-radius:50%;
+}
+.menu {
+    width:100%;
+    background-color:rgba(255, 255, 255,0.5);
+}
